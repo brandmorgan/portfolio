@@ -8,4 +8,15 @@ h2 {
 
 .highlight {
     color: red;
+    
+}
+
+img { float: right;
+    border-image-width: 20%;
+
+}
+html {background-color:tan;
+}
+img {
+    width: 450px;
 }
